@@ -104,7 +104,7 @@ cd claude-better-responses-mcp
 
 2. **Run the MCP server:**
 ```bash
-fastmcp run hello.py:mcp
+fastmcp run mcpserver.py:mcp
 ```
 
 3. **Add to your Claude configuration:**
