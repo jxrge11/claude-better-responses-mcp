@@ -1,4 +1,4 @@
-# 🚀 Claude Better Responses MCP
+# 🚀 Claude SWE Advisor MCP Server(An agent which makes the responses better for SWEs)
 
 > Improve Claude's coding responses with this MCP server
 
