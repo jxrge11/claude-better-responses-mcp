@@ -120,13 +120,6 @@ I tested Claude with a simple web development request to demonstrate the dramati
 - **Before:** Tightly coupled code, hard to modify, high technical debt
 - **After:** Loosely coupled modules, easy to extend, service worker ready for PWA
 
-  ## 🏗️ How It Works
-
-1. 🧠 You write a prompt (e.g. "Build me a SaaS for XYZ")
-2. 📡 Your SWE Advisor agent intercepts and enriches the prompt
-3. 🔁 Claude receives the **refined**, **strategically layered** version
-4. 💡 You get output that reads like it came from a senior software architect
-   
 
 ## 🔧 Installation
 
@@ -208,6 +201,29 @@ scalability design, and implementation roadmap]"
 **Second Approach:** Enterprise-grade development - comprehensive planning, robust architecture, and production-ready implementation
 
 Transform Claude from giving you a quick prototype to delivering enterprise-grade software engineering solutions.
+
+
+💡 Why This Matters
+Most devs throw raw prompts at LLMs and accept mediocre output. This repo helps you:
+
+    Build with intentional system design
+
+    Think like a senior engineer (automatically)
+
+    Get Claude to reason more deeply than ever before
+
+If you're working with LLMs, especially Claude, this is the upgrade you've been waiting for.
+🌟 Star This Project If...
+
+✅ You care about quality code
+✅ You’ve ever been frustrated by vague AI outputs
+✅ You want LLMs to design systems, not just print functions
+🧑‍💻 Built By
+
+Ali Akbar
+LinkedIn: https://www.linkedin.com/in/ali-akbar-161b42343/
+— Data Analyst | ML Engineer | AI Infra Builder
+This is part of my mission to make LLMs truly useful for real-world software engineering.
 
 ## 🤝 Contributing
 
