@@ -6,17 +6,23 @@
 
 ## 🧠 What Is This?
 
-This is the **first open-source Claude MCP (Multi-Context Prompting) server** equipped with a **custom Software Engineering (SWE) Advisor Agent** that transforms vague prompts into **production-ready, scalable, and maintainable solutions**.
+I’ve connected Claude (via MCP) to a custom-built **Software Engineering Advisor Agent**—an external tool that Claude can talk to anytime it needs expert technical guidance during a coding task.
 
-Most LLMs respond immediately. This system slows Claude down — strategically. It inserts thinking steps like:
+Instead of jumping straight into code, Claude now stops to ask:
 
-- ✅ Requirements elicitation  
-- ✅ Stakeholder simulation  
-- ✅ Risk & performance analysis  
-- ✅ Software architecture planning  
-- ✅ Maintainability & scalability readiness
+    “What should I focus on before building this?”
 
-> You’re not just getting code — you’re getting **engineering thought**.
+The agent responds with:
+
+    Architecture and modularity guidance
+
+    Performance and scalability planning
+
+    Accessibility and UX considerations
+
+    Tech stack trade-offs and risk awareness
+
+    ✅ The agent does not write code. It gives Claude strategic direction — like a senior engineering consultant would.
 
 ## The Problem
 
@@ -31,7 +37,7 @@ Claude and other AI assistants jump straight to implementation without strategic
 
 ## The Solution
 
-An MCP server that makes Claude consult with a senior software engineering advisor **before** answering your coding questions. This results in more thoughtful, strategic, and comprehensive responses.
+An MCP server that makes Claude consult with a senior software engineering advisor agent **before** doing your coding tasks. This results in more thoughtful, strategic, and comprehensive responses.
 
 ## ⚡ See The Difference
 
@@ -221,16 +227,7 @@ If you're working with LLMs, especially Claude, this is the upgrade you've been 
 
 🧑‍💻 Built By Ali Akbar
 LinkedIn: https://www.linkedin.com/in/ali-akbar-161b42343/
-— Data Analyst | ML Engineer | AI Infra Builder
 This is part of my mission to make LLMs truly useful for real-world software engineering.
-
-## 🤝 Contributing
-
-We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md) for details.
-
-## 📄 License
-
-MIT License - see [LICENSE](LICENSE) file for details.
 
 ## ⭐ Support
 
