@@ -218,9 +218,8 @@ If you're working with LLMs, especially Claude, this is the upgrade you've been 
 ✅ You care about quality code
 ✅ You’ve ever been frustrated by vague AI outputs
 ✅ You want LLMs to design systems, not just print functions
-🧑‍💻 Built By
 
-Ali Akbar
+🧑‍💻 Built By Ali Akbar
 LinkedIn: https://www.linkedin.com/in/ali-akbar-161b42343/
 — Data Analyst | ML Engineer | AI Infra Builder
 This is part of my mission to make LLMs truly useful for real-world software engineering.
