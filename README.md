@@ -1,6 +1,8 @@
 # 🚀 Claude SWE Advisor MCP Server(An agent which makes the responses better for SWEs)
 
+   **Supercharge Claude for Real Software Engineering.**
 > Improve Claude's coding responses with this MCP server
+> Turn raw prompts into strategic engineering blueprints — with your own intelligent advisor agent.
 
 ## The Problem
 
