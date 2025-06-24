@@ -109,12 +109,16 @@ fastmcp run hello.py:mcp
 
 3. **Add to your Claude configuration:**
 ```json
-{
-  "mcpServers": {
-    "engineering-advisor": {
-      "command": "fastmcp",
-      "args": ["run", "hello.py:mcp"],
-      "cwd": "/path/to/your/claude-better-responses-mcp"
+"hello": {
+      "command": "uv",
+      "args": [
+        "run",
+        "--with",
+        "mcp[cli]",
+        "mcp",
+        "run",
+        "C:\\Users\\path\\hello.py"
+      ]
     }
   }
 }
