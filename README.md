@@ -96,22 +96,31 @@ We tested Claude with a simple web development request to demonstrate the dramat
 
 ## 🔧 Installation
 
-1. Install the MCP server:
+1. **Clone the repository:**
 ```bash
-npm install claude-better-responses-mcp
+git clone https://github.com/skyline-GTRr32/claude-better-responses-mcp
+cd claude-better-responses-mcp
 ```
 
-2. Add to your Claude configuration:
+2. **Run the MCP server:**
+```bash
+fastmcp run hello.py:mcp
+```
+
+3. **Add to your Claude configuration:**
 ```json
 {
   "mcpServers": {
     "engineering-advisor": {
-      "command": "claude-better-responses-mcp"
+      "command": "fastmcp",
+      "args": ["run", "hello.py:mcp"],
+      "cwd": "/path/to/your/claude-better-responses-mcp"
     }
   }
 }
 ```
 
+4. **Restart Claude and start getting better responses!**
 3. Restart Claude and start getting better responses!
 
 ## 🎯 Features
