@@ -4,6 +4,20 @@
 > Improve Claude's coding responses with this MCP server
 > Turn raw prompts into strategic engineering blueprints — with your own intelligent advisor agent.
 
+## 🧠 What Is This?
+
+This is the **first open-source Claude MCP (Multi-Context Prompting) server** equipped with a **custom Software Engineering (SWE) Advisor Agent** that transforms vague prompts into **production-ready, scalable, and maintainable solutions**.
+
+Most LLMs respond immediately. This system slows Claude down — strategically. It inserts thinking steps like:
+
+- ✅ Requirements elicitation  
+- ✅ Stakeholder simulation  
+- ✅ Risk & performance analysis  
+- ✅ Software architecture planning  
+- ✅ Maintainability & scalability readiness
+
+> You’re not just getting code — you’re getting **engineering thought**.
+
 ## The Problem
 
 Claude and other AI assistants jump straight to implementation without strategic thinking:
