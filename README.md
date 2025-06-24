@@ -33,14 +33,6 @@ Claude and other AI assistants jump straight to implementation without strategic
 
 An MCP server that makes Claude consult with a senior software engineering advisor **before** answering your coding questions. This results in more thoughtful, strategic, and comprehensive responses.
 
-### ✅ Claude + SWE Advisor Agent
-- Functional Requirements (FRs) + NFRs  
-- Modular Architecture (PWA-ready)  
-- Performance goals (60 FPS, <3s load)  
-- WCAG 2.1 accessibility compliance  
-- Error handling, analytics, test strategy  
-- 15–20 pages of doc-style structured thinking
-
 ## ⚡ See The Difference
 
 I tested Claude with a simple web development request to demonstrate the dramatic improvement:
@@ -62,7 +54,14 @@ I tested Claude with a simple web development request to demonstrate the dramati
 - **Testing Strategy:** None specified
 - **Maintenance Plan:** Not addressed
 
-### ✅ Claude + Engineering Advisor (Strategic Approach)
+### ✅ Claude + Engineering Advisor Agent (Strategic Approach)
+
+- Functional Requirements (FRs) + NFRs  
+- Modular Architecture (PWA-ready)  
+- Performance goals (60 FPS, <3s load)  
+- WCAG 2.1 accessibility compliance  
+- Error handling, analytics, test strategy  
+- 15–20 pages of doc-style structured thinking
 
 **Requirements Gathering & Analysis:**
 - **Structured Requirements Elicitation:** Used software engineer agent to analyze and expand requirements
