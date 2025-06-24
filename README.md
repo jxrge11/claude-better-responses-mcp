@@ -117,7 +117,7 @@ fastmcp run hello.py:mcp
         "mcp[cli]",
         "mcp",
         "run",
-        "C:\\Users\\path\\hello.py"
+        "C:\\Users\\path\\mcpserver.py"
       ]
     }
   }
