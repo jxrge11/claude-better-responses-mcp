@@ -16,7 +16,7 @@ An MCP server that makes Claude consult with a senior software engineering advis
 
 ## ⚡ See The Difference
 
-We tested Claude with a simple web development request to demonstrate the dramatic improvement:
+I tested Claude with a simple web development request to demonstrate the dramatic improvement:
 
 ### Test Question
 > "Hey, code me a landing page for a dual interface (garage managers and service seekers). These two kinds of people are my clients. I am building a web app to connect garages with users (service seekers)."
