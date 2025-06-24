@@ -40,7 +40,7 @@ An MCP server that makes Claude consult with a senior software engineering advis
 - WCAG 2.1 accessibility compliance  
 - Error handling, analytics, test strategy  
 - 15–20 pages of doc-style structured thinking
-- 
+
 ## ⚡ See The Difference
 
 I tested Claude with a simple web development request to demonstrate the dramatic improvement:
