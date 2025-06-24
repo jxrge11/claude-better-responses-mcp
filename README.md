@@ -120,6 +120,14 @@ I tested Claude with a simple web development request to demonstrate the dramati
 - **Before:** Tightly coupled code, hard to modify, high technical debt
 - **After:** Loosely coupled modules, easy to extend, service worker ready for PWA
 
+  ## 🏗️ How It Works
+
+1. 🧠 You write a prompt (e.g. "Build me a SaaS for XYZ")
+2. 📡 Your SWE Advisor agent intercepts and enriches the prompt
+3. 🔁 Claude receives the **refined**, **strategically layered** version
+4. 💡 You get output that reads like it came from a senior software architect
+   
+
 ## 🔧 Installation
 
 1. **Clone the repository:**
