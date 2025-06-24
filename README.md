@@ -25,6 +25,9 @@ Claude and other AI assistants jump straight to implementation without strategic
 - ❌ Misses performance, security, and scalability concerns  
 - ❌ Creates technical debt with hasty implementations
 - ❌ No architectural consideration or planning
+- ❌ No functional/non-functional requirements  
+- ❌ No architecture or testing plan  
+- Just "code output" with assumptions
 
 ## The Solution
 
